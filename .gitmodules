@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "metaMA"]
 	path = metaMA
 	url = https://github.com/cran/metaMA
-	shallow = true
-	registered = true
 [submodule "metaRNASeq"]
 	path = metaRNASeq
 	url = https://github.com/cran/metaRNASeq
-	shallow = true
-	registered = true
 [submodule "SMVar"]
 	path = SMVar
 	url = https://github.com/cran/SMVar
-	shallow = true
-	registered = true
